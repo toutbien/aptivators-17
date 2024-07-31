@@ -1,4 +1,4 @@
-# Team Aptivators' Federal AI Hackathon Proect Repo
+# Team Aptivators' Federal AI Hackathon Project Repo
 
 Staging area for repository development. Team members: Brandon M, Lisa S, Johaan, and Ryan 
 
