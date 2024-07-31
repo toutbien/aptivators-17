@@ -1,3 +1,5 @@
 # Presentation slide
 
-Please place your team's final presentation slides in this directory.
+Presentation Slid for People's Choice Added
+Video Created for Demo:
+https://vimeo.com/993038846?share=copy
