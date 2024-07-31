@@ -1,33 +1,21 @@
 # Team Aptivators' Federal AI Hackathon Proect Repo
 
-Staging area for repository development. Team members: Brandon M and Lisa S
-
-### Submitting your repository
-
-After you create you repository from this template, submit your repository's URL to the hackathon staff on Slack. Please submit the full URL, such as [https://github.com/octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife). We will then fork your repository and keep our fork updated.
-
-### Using the repository
-
-* The `slides` directory is for your team's final presentations. Please ensure your slides are in this directory at the time of judging.
-* You may place any and all files you wish to submit in this repository, using any project structure.
-* Please consider keeping this README file, but delete all of this template text and customize it with helpful information about your solution. There is no specific format you should follow, but you can refer to the example sections below for some ideas.
+Staging area for repository development. Team members: Brandon M, Lisa S, Johaan, and Ryan 
 
 ## Introduction
 
-In this section, you can briefly introduce the solution. Overall, what does it do? What problem does it solve?
+Our challenge was enhancing the AI readability of NSF.gov/AwardSearch to improve data transparency, support research and innovation, and enhance user experience in the process.
 
-## Features
+## Enhancing User Persona Utility
 
-In this section, you can describe the features your solution has.
+One problem was that common AI GPT tools would not parse the traditional filetype: .xml in real-time so users were being routed to the Advanced Search feature (https://www.nsf.gov/awardsearch/advancedSearch.jsp) for further queries. This was not as efficient for many modern users and provided options not relevant to all user personas.
 
 ## Installation
 
-In this section, you can describe how to get started with your solution. This could include configuring the environment and your solution, installing prerequisites, etc.
+Our solution was to create a ChatGPT custom GPT, leverage a Standard GPT endpoint, and test on multiple user personas to develop greater personalization. This custom GPT can be used as an API improving both AI readability and customer engagement through specific user queries and natural communication. Our API can also be integrated via marketplace for use in chatbots, etc on NSF.gov’s Awards Search site. 
 
-## Usage
+https://chatgpt.com/g/g-4xQTO5rtU-nsf-award-finder
 
-In this section, you can describe how to use the solution.
+## Our test samples
 
-## Examples
-
-In this section, you can provide practical examples of how one would use the solution.
+You can find our user persona queries testing this API in the user-personas folder.
