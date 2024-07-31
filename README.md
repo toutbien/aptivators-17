@@ -1,20 +1,6 @@
-# Federal AI Hackathon
+# Team Aptivators' Federal AI Hackathon Proect Repo
 
-This repository serves as a template for your team to create your own repository that you can use to submit your hackathon solution. You are not required to use this repository or GitHub to submit your solution, but you are required to submit all of your materials to us.
-
-## How to use this repository as a template
-
-### Creating a repository
-
-To use this repository, use the "Use this template" button to create a new repository ([see instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)).
-
-When creating a new repository, keep in mind:
-
-* Your repository name must include your team name and your two-digit team ID (example: `my-awesome-team-99`)
-* You must create your team's repository under your own GitHub account or GitHub organization
-* Your repository must be set to public
-* Your repository must allow forking (this is the default when creating a new repository)
-* Your repository must not be deleted until instructed otherwise by hackathon staff
+Staging area for repository development. Team members: Brandon M and Lisa S
 
 ### Submitting your repository
 
